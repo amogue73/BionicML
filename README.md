@@ -7,7 +7,7 @@ The program has an additional option to measure the execution time and energy co
 # Usage
 
 The syntax of BionicML.py is the following:
-BionicML.py [-m] <GA/PSO/ACO/CS/WOA> <number of agents> <number of iterations> <number of processes> [<desired number of features>]"
+BionicML.py (-m) <GA/PSO/ACO/CS/WOA> <number of agents> <number of iterations> <number of processes> (<desired number of features>)"
 
 The first argument is optional. If present, the "measure mode" will be used. This means that execution time and energy consumption will be measured and saved in the "Measurements" folder.
 The second argument is the algorithm to be used.
