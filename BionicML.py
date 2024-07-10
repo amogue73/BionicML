@@ -282,7 +282,7 @@ if __name__ == "__main__":
     def print_syntax():
         """Shows the correct syntax to execute the programm"""
 
-        print("Correct syntax: algorithms.py [-m] <GA/PSO/ACO/CS/WOA> <number"
+        print("Correct syntax: BionicML.py [-m] <GA/PSO/ACO/CS/WOA> <number"
             " of agents> <number of iterations> <number of processes> [<desired number of features>]")
 
     def manage_error(msg):
