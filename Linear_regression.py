@@ -153,7 +153,6 @@ def make_regression_energy(averages, times):
 
 
 def print_results(dist_values_skipped, averages, pred_values, regressors, reg, mode):
-    print(dist_values_skipped)
     rmse = np.sqrt(mse(averages, pred_values))
 
     avg_averages = 0
@@ -233,6 +232,7 @@ for alg in algorithms:
 
     reg_energy, pred_values_energy, regressors_energy  = make_regression_energy(averages_energy, reg_time.coef_)
 
-    
+    print_results(dist_values_skipped_times, averages_times, pred_values_time, regressors_time, reg_time, 'time')
+    print_results(dist_values_skipped_energy, averages_energy, pred_values_energy, regressors_energy, reg_energy, 'energy')
 
     
