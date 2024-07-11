@@ -233,9 +233,6 @@ for alg in algorithms:
 
     reg_energy, pred_values_energy, regressors_energy  = make_regression_energy(averages_energy, reg_time.coef_)
 
-    print_results(dist_values_skipped_times, averages_times, pred_values_time, regressors_time, reg_time, 'time')
-    print_results(dist_values_skipped_energy, averages_energy, pred_values_energy, regressors_energy, reg_energy, 'energy')
-
     
 
     
