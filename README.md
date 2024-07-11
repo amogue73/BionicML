@@ -30,4 +30,7 @@ This work has been funded by:
   <li>Universidad de Granada, under grant number PPJIA2023-025.</li>
 </ul>
 
+# Copyright
+
+BionicML © [Universidad de Granada](https://www.ugr.es/)
 
