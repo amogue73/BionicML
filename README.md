@@ -14,7 +14,13 @@ Alejandro Moreno Guerrero (amogue@correo.ugr.es) and Juan José Escobar Pérez (
 
 # Requirements
 
-Python 3
+Python 3 with the following libraries:
+<ul>
+  <li>Numpy</li>
+  <li>PyGad</li>
+  <li>CodeCarbon</li>
+  <li>scikit-learn</li>
+</ul>
 
 # Usage
 
