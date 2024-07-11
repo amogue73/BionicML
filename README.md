@@ -4,6 +4,14 @@ This program allows to execute five types of parallel bioinspired algorithms for
 
 The program has an additional option to measure the execution time and energy consumed by the processor during execution. These data, as well as the solution and accuracy are registered in the folder of the respective algorithm used. The purpose of this feature is to adjust formulas of time and energy by linear regression, which is done by the program Linear_regression.py
 
+# Version
+
+1.0
+
+# Author
+
+Alejandro Moreno Guerrero (amogue@correo.ug.es) and Juan José Escobar Pérez (jjescobar@ugr.es)
+
 # Usage
 
 The syntax of BionicML.py is the following:
