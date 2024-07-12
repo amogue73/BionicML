@@ -1,4 +1,8 @@
-**Syntax of BionicML.py:**
+# User guide #
+
+This is a guide that describes the syntax of each program of this project.
+
+## BionicML.py: ##
 
 BionicML.py \[-m\] \<GA/PSO/ACO/CS/WOA\> \<number of agents\> \<number of iterations\> \<number of processes\> \[\<desired number of features\>\]
 <ul>
@@ -8,11 +12,11 @@ BionicML.py \[-m\] \<GA/PSO/ACO/CS/WOA\> \<number of agents\> \<number of iterat
   <li>The last argument is the number of features around which the algorithm will search. It's optional and defaults to 100</li>
 </ul>
 
-**Syntax of ACO.py:**
+## ACO.py: ##
 
 ACO.py \<number of agents\> \<number of iterations\> \<number of processes\>
 
-**Syntax of LUT.py and Linear_regression.py:**
+## LUT.py and Linear_regression.py: ##
 
 The programs LUT.py and Linear_regression.py don't need arguments.
 <ul>
