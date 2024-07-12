@@ -201,15 +201,11 @@ if __name__ == "__main__":
     import random as rand           
     import numpy as np
     import csv
-    import pygad
-    import math
     from matplotlib import pyplot as plt
     import time
     from multiprocessing.pool import Pool
     from multiprocessing import Process, Array
-    from codecarbon import EmissionsTracker
     from sklearn.preprocessing import StandardScaler
-    from concurrent.futures import ProcessPoolExecutor
 
     def print_syntax():
         """Shows the correct syntax to execute the programm"""
