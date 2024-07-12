@@ -8,6 +8,9 @@ BionicML.py \[-m\] \<GA/PSO/ACO/CS/WOA\> \<number of agents\> \<number of iterat
   <li>The last argument is the number of features around which the algorithm will search. It's optional and defaults to 100</li>
 </ul>
 
+The syntax of ACO.py is the following:
+
+ACO.py \<number of agents\> \<number of iterations\> \<number of processes\>
 
 The programs LUT.py and Linear_regression.py don't need arguments.
 <ul>
