@@ -1,4 +1,5 @@
 **Syntax of BionicML.py:**
+
 BionicML.py \[-m\] \<GA/PSO/ACO/CS/WOA\> \<number of agents\> \<number of iterations\> \<number of processes\> \[\<desired number of features\>\]
 <ul>
   <li>The first argument is optional. If present, the "measure mode" will be used. This means that execution time and energy consumption will be measured and saved in the "Measurements" folder.</li>
@@ -8,9 +9,11 @@ BionicML.py \[-m\] \<GA/PSO/ACO/CS/WOA\> \<number of agents\> \<number of iterat
 </ul>
 
 **Syntax of ACO.py:**
+
 ACO.py \<number of agents\> \<number of iterations\> \<number of processes\>
 
 **Syntax of LUT.py and Linear_regression.py:**
+
 The programs LUT.py and Linear_regression.py don't need arguments.
 <ul>
   <li>LUT.py produces the LUT.csv file.</li>
