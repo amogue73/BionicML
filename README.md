@@ -33,10 +33,10 @@ This work has been funded by:
 <ul>
   <li>Spanish Ministerio de Ciencia, Innovación y Universidades under grant numbers PID2022-137461NB-C32 and PID2020-119478GB-I00.</li>
   <li>European Regional Development Fund (ERDF).</li>
-  <li>Universidad de Granada, under grant number PPJIA2023-025.</li>
+  <li>University of Granada, under grant number PPJIA2023-025.</li>
 </ul>
 
 # Copyright
 
-BionicML © [Universidad de Granada](https://www.ugr.es/)
+BionicML © [University of Granada](https://www.ugr.es/)
 
